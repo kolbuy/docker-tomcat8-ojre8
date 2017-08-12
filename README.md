@@ -2,17 +2,21 @@
 
 # lastest version
 
-kolbuy/tomcat8-ojre8:1.2.1
+kolbuy/tomcat8-ojre8:1.2.2
 
 # pull image
 
-> docker pull kolbuy/tomcat8-ojre8:1.2.1
+> docker pull kolbuy/tomcat8-ojre8:1.2.2
 
 or
 
-> registry.aliyuncs.com/kolbuy/tomcat8-ojre8:1.2.1
+> registry.aliyuncs.com/kolbuy/tomcat8-ojre8:1.2.2
 
 # version notes
+
+## 1.2.2
+
+update nginx version to 1.13
 
 ## 1.2.1
 
